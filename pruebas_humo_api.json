@@ -1,0 +1,19 @@
+{
+  "info": {
+    "_postman_id": "4be0a54b-bee3-4d53-b127-4f65008f76ee",
+    "name": "Pruebas de Humo - API Inicio",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52960358",
+    "_collection_link": "https://go.postman.co/collection/52960358-4be0a54b-bee3-4d53-b127-4f65008f76ee?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
